@@ -40,6 +40,7 @@
 { "trigger": "CastSpell3", "contents":						"CastSpell3(${1:iSlot}, ${2:D3DXVECTOR3}, ${3:D3DXVECTOR3})" },
 { "trigger": "LevelSpell", "contents":						"LevelSpell(${1:iSpell})" },
 { "trigger": "SetSkin", "contents": 						"SetSkin(${1:unit}, ${2:skinID})" },
+{ "trigger": "BuyItem", "contents": 						"BuyItem(${1:itemID})" },
 { "trigger": "CalculatePath", "contents": 					"CalculatePath(${1:unit}, ${2:D3DXVECTOR3})" },
 { "trigger": "print", "contents": 							"print(${1:text})" },
 { "trigger": "PrintChat", "contents": 						"PrintChat(${1:text})" },
