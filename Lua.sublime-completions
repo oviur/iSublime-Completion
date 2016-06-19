@@ -297,7 +297,7 @@
 { "trigger": "addParam(pVar, pText, SCRIPT_PARAM_ONOFF, defaultValue)", "contents": 						"addParam(${1:pVar}, ${2:pText}, ${3:SCRIPT_PARAM_ONOFF}, ${4:defaultValue})" },
 { "trigger": "addParam(pVar, pText, SCRIPT_PARAM_ONKEYDOWN, defaultValue, key)", "contents": 					"addParam(${1:pVar}, ${2:pText}, ${3:SCRIPT_PARAM_ONKEYDOWN}, ${4:defaultValue}, ${5:key})" },
 { "trigger": "addParam(pVar, pText, SCRIPT_PARAM_ONKEYTOGGLE, defaultValue, key)", "contents": 				"addParam(${1:pVar}, ${2:pText}, ${3:SCRIPT_PARAM_ONKEYTOGGLE}, ${4:defaultValue}, ${5:key})" },
-{ "trigger": "addParam(pVar, pText, SCRIPT_PARAM_INFO)", "contents": 						"addParam(${1:pVar}, ${2:pText}, ${3:SCRIPT_PARAM_INFO})" },
+{ "trigger": "addParam(pVar, pText, SCRIPT_PARAM_INFO)", "contents": 						"addParam(${1:pVar}, ${2:pText}, ${3:SCRIPT_PARAM_INFO}, ${4:" "})" },
 { "trigger": "addParam(pVar, pText, SCRIPT_PARAM_COLOR, defaultValue)", "contents": 						"addParam(${1:pVar}, ${2:pText}, ${3:SCRIPT_PARAM_COLOR}, ${4:defaultValue})" },
 { "trigger": "addParam(pVar, pText, SCRIPT_PARAM_LIST, defaultValue, listTable)", "contents": 						"addParam(${1:pVar}, ${2:pText}, ${3:SCRIPT_PARAM_LIST}, ${4:defaultValue}, ${5:listTable})" },
 { "trigger": "addSubMenu", "contents": 					"addSubMenu(${1:header}, ${2:name})" },
